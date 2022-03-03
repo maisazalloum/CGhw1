@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\CS\f8\رسم حاسوبي\PPUViewer2022\PPUViewer2022_bin\CGFrameWork_autogen\mocs_compilation.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\CS\f8\رسم حاسوبي\PPUViewer2022\PPUViewer2022\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\CS\f8\رسم حاسوبي\PPUViewer2022\PPUViewer2022\RenderWidget.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\CS\f8\رسم حاسوبي\PPUViewer2022\PPUViewer2022\PPUViewer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="D:\CS\f8\رسم حاسوبي\PPUViewer2022\PPUViewer2022\RenderWidget.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\CS\f8\رسم حاسوبي\PPUViewer2022\PPUViewer2022\PPUViewer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\CS\f8\رسم حاسوبي\PPUViewer2022\PPUViewer2022\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{6F42C7B9-7E5D-3B5A-973C-89917A438778}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{09D78145-F391-3326-B61A-1AB4835E2FAA}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

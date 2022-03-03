@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\CS\f8\رسم حاسوبي\PPUViewer2022\PPUViewer2022_bin\CMakeFiles\aadbf12cc2474f02a3da223f15d49768\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{A7DCE870-3355-34DF-A00B-FAE219704451}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
